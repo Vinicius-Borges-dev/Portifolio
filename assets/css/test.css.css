@@ -1,0 +1,255 @@
+
+
+
+/* @media screen and (max-width: 1366px) {
+    #titulo-ap2 {
+        font-size: 30px;
+        font-weight: 200;
+    }
+    
+    #titulo-nome {
+        font-size: 50px;
+        font-weight: 400;
+    }
+    
+    #titulo-dev {
+        font-size: 20px;
+        font-weight: 500;
+    }
+    
+    #texto-ap {
+        position: absolute;
+        top: 25%;
+        left: 5%;
+        font-size: 16px;
+        font-weight: 400;
+        width: 30%;
+    }
+    
+    #link-contato {
+        text-decoration: none;
+        color: white;
+        border: 1px solid white;
+        padding: 10px 20px;
+        position: absolute;
+        top: 50%;
+        left: 5%;
+    }
+    @keyframes AbrirProjetos {
+        0% {
+            transform: translateY(0);
+        }
+        30%{
+            opacity: 0;
+        }
+        80%{
+            opacity: 0;
+        }
+        85%{
+            opacity: 1;
+        }
+        100% {
+            transform: translateY(-455px);
+            opacity: 1;
+        }
+    }
+    
+    @keyframes AbrirCurriculo {
+        0% {
+            transform: translateY(0);
+        }
+    
+        100% {
+            transform: translateY(-1080px);
+    
+        }
+    }
+    
+    @keyframes AbrirRedes {
+        0% {
+            transform: translateY(0);
+        }
+    
+        100% {
+            transform: translateY(-1100px);
+    
+        }
+    }
+} */
+
+
+
+/* @media screen and (min-width: 1114px) {
+    
+@keyframes apresentacao {
+    0% {
+        opacity: 0;
+    }
+
+    50% {
+        opacity: 1;
+    }
+
+    100% {
+        opacity: 0;
+    }
+}
+
+#ap-bemvindo {
+    font-size: 20px;
+    font-weight: 200;
+}
+
+#ap-portifolio {
+    font-size: 30px;
+    font-weight: 200;
+}
+
+#apresentacao-nome {
+    font-size: 30px;
+    font-weight: 400;
+}
+
+
+/* #titulo-ap {
+    position: absolute;
+    top: 6%;
+    left: 5%;
+    text-align: right;
+} */
+
+/* #titulo-ap2 {
+    font-size: 40px;
+    font-weight: 200;
+}
+
+#titulo-nome {
+    font-size: 60px;
+    font-weight: 400;
+}
+
+#titulo-dev {
+    font-size: 20px;
+    font-weight: 500;
+}
+
+#texto-ap {
+    position: absolute;
+    top: 25%;
+    left: 5%;
+    font-size: 20px;
+    font-weight: 400;
+    width: 30%;
+}
+
+#link-contato {
+    text-decoration: none;
+    color: white;
+    border: 1px solid white;
+    padding: 10px 20px;
+    position: absolute;
+    top: 40%;
+    left: 5%;
+}
+
+nav {
+    color: #FFFFFF;
+    position: absolute;
+    bottom: 7%;
+    right: 5%;
+    text-align: right;
+    font-weight: 200;
+    font-size: 26px;
+}
+
+#menu {
+    list-style: none;
+}
+
+#curriculo {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+@keyframes AbrirProjetos {
+    0% {
+        transform: translateY(0);
+    }
+
+    100% {
+        transform: translateY(-1100px);
+
+    }
+}
+
+@keyframes AbrirCurriculo {
+    0% {
+        transform: translateY(0);
+    }
+
+    100% {
+        transform: translateY(-1080px);
+
+    }
+}
+
+@keyframes AbrirRedes {
+    0% {
+        transform: translateY(0);
+    }
+
+    100% {
+        transform: translateY(-1100px);
+
+    }
+}
+
+@keyframes AparecerEsquerda {
+    0% {
+        transform: translateX(10px);
+        display: none;
+        opacity: 0;
+    }
+
+    100% {
+        transform: translateX(0px);
+        opacity: 1;
+        display: block;
+    }
+}
+
+@keyframes SumirDireita {
+    0% {
+        transform: translateX(0);
+    }
+
+    100% {
+        transform: translateX(10px);
+        opacity: 0;
+        display: none;
+    }
+}
+
+@keyframes SumirApresentacao {
+    0% {
+        opacity: 1;
+        transform: translateX(0px);
+    }
+
+    100% {
+        opacity: 0;
+        transform: translateX(-10px);
+    }
+}
+
+@keyframes TrazerAp {
+    0% {
+        opacity: 0;
+        transform: translateX(-10px);
+    }
+
+    100% {
+        opacity: 1;
+        transform: translateX(0px);
+    }
+} */

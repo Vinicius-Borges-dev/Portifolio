@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Bem vindo</title>
+        <link rel="stylesheet" href="assets/css/estilo.css">
+    </head>
+
+    <body>
+        <div id="ap-inicial">
+            <p>
+                <span id="ap-bemvindo">Bem vindo à<br></span>
+                <span id="apresentacao-nome">Vinicius Borges </span>
+                <span id="ap-portifolio">Portifolio</span>
+            </p>
+        </div>
+        <div id="container">
+            <video autoplay loop muted paysinline id="video-fundo">
+                <source src="assets/videos/ondas.mp4" type="video/mp4">
+            </video>
+
+            <div id="titulo-ap">
+                <p>
+                    <span id="titulo-ap2">Olá, sou </span>
+                    <span id="titulo-nome">Vinícius Borges<br></span>
+                    <span id="titulo-dev">Desenvolvedor e Programador<br></span>
+                </p>
+            </div>
+            <div id="texto-ap">
+                <p>
+                    Nascido em 2003. apaixonado pela, como gosto de chamar:
+                    “arte de programar” crio sites e programas dos mais
+                    variados tipos, fazendo uso (quando possível) do meu
+                    estilo próprio. Dou preferência a estilos minimalistas,
+                    mas, ainda sim, muito bem alaborados. Em equipe, viso a
+                    versatilidade e adaptabilidade na criação e manutenção
+                    de conteúdos
+                </p>
+            </div>
+            <a id="link-contato" href="#">Contate-me</a>
+            <span id="nova-posicao"></span>
+            <nav>
+                <ul id="menu">
+                    <li id="projetos" class="opcao" onclick="MostrarSecao('projetos')">Projetos</li>
+                    <li id="curriculo" class="opcao" onclick="MostrarSecao('curriculo')">Currículo</li>
+                    <li id="redes_sociais" class="opcao" onclick="MostrarSecao('redes_sociais')">Redes Sociais</li>
+                    <li id="voltar" class="opcao d-none" onclick="MostrarSecao('voltar')">Voltar</li>
+                </ul>
+            </nav>            
+            
+        
+
+        </div>
+
+        <script src="assets/js/interacao.js"></script>
+    </body>
+</html>
